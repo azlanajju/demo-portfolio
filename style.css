@@ -1,0 +1,23 @@
+body{
+    background-color: pink;
+}
+p{
+    color: red;
+}
+h1{
+    color: blue;
+}
+div{
+    background-color: aqua;
+    width: 200px;
+    border: 5px double brown;
+}
+.div2{
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    padding: 30px;
+    border: 2px solid black;
+    margin: 50px;
+    border-radius: 50%;
+}
